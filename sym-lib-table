@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "custom_kicad_symbols")(type "KiCad")(uri "/home/krishna/Documents/custom_kicad_library/custom_kicad_symbols/custom_kicad_symbols.kicad_sym")(options "")(descr ""))
+)
